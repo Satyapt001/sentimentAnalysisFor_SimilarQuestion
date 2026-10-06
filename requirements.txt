@@ -1,0 +1,32 @@
+
+# Core numerical libraries
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+
+# Machine learning
+scikit-learn==1.5.2
+xgboost==2.1.2
+rapidfuzz==3.10.1
+
+# Model persistence
+joblib==1.4.2
+
+# NLP
+nltk==3.9.1
+
+# Data visualization and analysis
+matplotlib==3.9.2
+seaborn==0.13.2
+wordcloud==1.9.4
+
+# Frontend prototype / existing application
+streamlit==1.40.1
+
+# Backend REST API
+fastapi==0.141.1
+uvicorn[standard]==0.54.0
+
+# Development environment
+jupyterlab==4.2.5
+ipykernel==6.29.5
